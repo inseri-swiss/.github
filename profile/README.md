@@ -1,8 +1,8 @@
-## Welcome to inseri! 👋
+## Welcome! 👋
 
-inseri core is a WordPress plugin developed as part of inseri.swiss swissuniversities project – Programme Open Science.
+[inseri core](https://wordpress.org/plugins/inseri-core/) is a WordPress plugin developed as part of inseri.swiss swissuniversities project – Programme Open Science.
 
-[inseri-core](https://wordpress.org/plugins/inseri-core/) introduces scientific and interactive Gutenberg blocks to facilitate open science. 
+inseri core introduces scientific and interactive Gutenberg blocks to facilitate open science. 
 
 - More information about the project can be found at [inseri.swiss](https://inseri.swiss/).
 - Detailed documentation is available at [docs.inseri.swiss](https://docs.inseri.swiss/).
