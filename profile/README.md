@@ -5,7 +5,7 @@
 inseri core introduces scientific and interactive Gutenberg blocks to facilitate open science. 
 
 - More information about the project can be found at [inseri.swiss/about](https://inseri.swiss/about).
-- For examples and showcases see [inseri.swiss](https://inseri.swiss/about).
+- For examples and showcases see [inseri.swiss](https://inseri.swiss).
 - Detailed documentation is available at [docs.inseri.swiss](https://docs.inseri.swiss/).
 - Try out our [Playground](https://inseri.swiss/playground/).
 - For Ideas and Questions please use [GitHub Discussions](https://github.com/inseri-swiss/inseri-swiss/discussions).
