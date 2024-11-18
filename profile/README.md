@@ -8,12 +8,12 @@ inseri core introduces scientific and interactive Gutenberg blocks to facilitate
 - For examples and showcases see [inseri.swiss](https://inseri.swiss).
 - Detailed documentation is available at [docs.inseri.swiss](https://docs.inseri.swiss/).
 - Try out our [Playground](https://inseri.swiss/playground/).
-- For Ideas and Questions please use [GitHub Discussions](https://github.com/inseri-swiss/inseri-swiss/discussions).
-- Bug and Issue reports are welcome on [GitHub Issues](https://github.com/inseri-swiss/inseri-swiss/issues).
+- For Ideas and Questions please use [GitHub Discussions](https://github.com/inseri-swiss/inseri-core-wp/discussions).
+- Bug and Issue reports are welcome on [GitHub Issues](https://github.com/inseri-swiss/inseri-core-wp/issues).
 - The development takes place on [GitHub](https://github.com/inseri-swiss/inseri-core-wp).
 
-Do you want to get regular notifications? Watch the [inseri-swiss](https://github.com/inseri-swiss/inseri-swiss) repository!<br/>
-Do you want to show your interest? Follow [inseri.swiss](https://github.com/inseri-swiss/) organization!
+Do you want to get regular notifications? **Watch** the [GitHub](https://github.com/inseri-swiss/inseri-core-wp) repository!<br/>
+Do you want to show your interest? **Star** the and [GitHub](https://github.com/inseri-swiss/inseri-core-wp) repository and **Follow** [inseri.swiss](https://github.com/inseri-swiss/) organization!
 <!--
 
 **Here are some ideas to get you started:**
