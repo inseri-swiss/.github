@@ -4,6 +4,8 @@
 
 inseri core introduces scientific and interactive Gutenberg blocks to facilitate open science. 
 
+inseri name comes from the Latin _insero_ which means **to sow, to plant** but also **to insert**.
+
 - More information about the project can be found at [inseri.swiss/about](https://inseri.swiss/about).
 - For examples and showcases see [inseri.swiss](https://inseri.swiss).
 - Detailed documentation is available at [docs.inseri.swiss](https://docs.inseri.swiss/).
