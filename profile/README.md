@@ -15,7 +15,7 @@ inseri name comes from the Latin _insero_ which means **to sow, to plant** but a
 - The development takes place on [GitHub](https://github.com/inseri-swiss/inseri-core-wp).
 
 Do you want to get regular notifications? **Watch** the [GitHub](https://github.com/inseri-swiss/inseri-core-wp) repository!<br/>
-Do you want to show your interest? **Star** the and [GitHub](https://github.com/inseri-swiss/inseri-core-wp) repository and **Follow** [inseri-swiss](https://github.com/inseri-swiss/) organization!
+Do you want to show your interest? **Star** the and [GitHub](https://github.com/inseri-swiss/inseri-core-wp) repository and **Follow** [inseri.swiss](https://github.com/inseri-swiss/) organization!
 <!--
 
 **Here are some ideas to get you started:**
