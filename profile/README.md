@@ -6,10 +6,10 @@ inseri core introduces scientific and interactive Gutenberg blocks to facilitate
 
 inseri name comes from the Latin _insero_ which means **to sow, to plant** but also **to insert**.
 
-- More information about the project can be found at [here](https://zi.whp.uzh.ch/whp/science-it/inseri/about).
+- More information about the project can be found at [here](https://zi.uzh.ch/whp/science-it/inseri/about).
 - For examples and showcases see [here](https://zi.uzh.ch/whp/science-it/inseri/).
 - Detailed documentation is available at [inseri-swiss.github.io/inseri-core-wp](https://inseri-swiss.github.io/inseri-core-wp).
-- Try out our [Playground](https://zi.whp.uzh.ch/whp/science-it/inseri/playground/).
+- Try out our [Playground](https://zi.uzh.ch/whp/science-it/inseri/playground/).
 - For Ideas and Questions please use [GitHub Discussions](https://github.com/inseri-swiss/inseri-core-wp/discussions).
 - Bug and Issue reports are welcome on [GitHub Issues](https://github.com/inseri-swiss/inseri-core-wp/issues).
 - The development takes place on [GitHub](https://github.com/inseri-swiss/inseri-core-wp).
