@@ -1,3 +1,5 @@
+⚠️ This project is unmaintained. ⚠️
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
