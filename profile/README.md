@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-⚠️ This project is unmaintained ⚠️
+⚠️ This project is unmaintained. ⚠️
 
 [inseri core](https://wordpress.org/plugins/inseri-core/) is a WordPress plugin developed as part of inseri.swiss swissuniversities project – Programme Open Science I (2021-2024).
 
